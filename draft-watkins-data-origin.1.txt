@@ -376,10 +376,6 @@ Abstract
 
 10. Author's Address
 
-   Charles Watkins\
-   Watkins Labs\
-   6325 Mountain Ridge Way\
-   Sugar Hill, GA, 30518\
-   USA\
+   Charles Watkins
    Email: chris@watkinslabs.com
 
