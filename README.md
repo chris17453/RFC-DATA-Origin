@@ -4,7 +4,7 @@
 This repository contains the draft proposal for a standardized framework for Content Origin Identification developed by the Internet Engineering Task Force (IETF). The framework aims to address the growing challenge of distinguishing between human-generated and AI-generated content, promoting transparency and trust in the digital ecosystem.
 
 ## Contents
-- **draft-watkins-content-origin.1.txt**: This document outlines the framework, including the abstract, introduction, terminology, identifier design, implementation guidelines, compliance and enforcement measures, security considerations, conclusion, acknowledgements, and author's contact information.
+- **draft-watkins-data-origin.1.txt**: This document outlines the framework, including the abstract, introduction, terminology, identifier design, implementation guidelines, compliance and enforcement measures, security considerations, conclusion, acknowledgements, and author's contact information.
 
 ## How to Contribute
 Your feedback and contributions are valuable in refining and promoting the adoption of this framework. Here's how you can contribute:
